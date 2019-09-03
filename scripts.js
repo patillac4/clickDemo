@@ -5,7 +5,7 @@ var dsClickwrapId = 'f5776157-90e4-4668-9429-cfd62b1ca16c';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.logolynx.com/topic/pure+romance#&gid=1&pid=6';
+var logoUrl = '<a href="https://www.nicepng.com/ourpic/u2w7a9u2o0a9w7w7_partners-sponsors-pure-romance-logo-svg/" target="_blank">Partners Sponsors - Pure Romance Logo Svg @nicepng.com</a>';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
