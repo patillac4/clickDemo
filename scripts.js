@@ -1,15 +1,15 @@
 // replace value below with your Account ID //
-var dsAccountId = '53e87a81-3ab4-43d4-9d29-b7861bfc1e1e';
+var dsAccountId = '374a3390-ed34-41d7-b0ff-5c10fa0c287a';
 //  replace value below with your Clickwrap ID //
-var dsClickwrapId = '8d6ef161-0398-40d7-be90-03136af40036';
+var dsClickwrapId = 'f5776157-90e4-4668-9429-cfd62b1ca16c';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.innov8ive.app/LOGO.png';
+var logoUrl = 'https://www.logolynx.com/topic/pure+romance#&gid=1&pid=6';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
-var buttonTextColor = '#ffffff';
+var buttonTextColor = '#E5168D';
 
 function makeid(length) {
    var result           = '';
